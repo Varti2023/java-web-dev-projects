@@ -1,7 +1,7 @@
 package org.launchcode;
 import java.util.Scanner;
 
-public class InputOutput {
+public class HelloWorld {
 
     public static void main(String[] args) {
 
